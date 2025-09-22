@@ -1,2 +1,8 @@
-# Simple_CICD_demo
-Working on CICD implementation 
+<html>
+<head>
+<title>hello word <\title>
+</body>
+</h1>Hello World<\h1>
+<\body>
+</head>
+<\html>
